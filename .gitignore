@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
+# Allow Markdown files
 !*.md
 
 # Allow image files
