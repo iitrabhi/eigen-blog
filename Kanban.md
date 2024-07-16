@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## 💡Inbox
 
-- [ ] [2024-07-16](blogs/2024-07-16.md)
 
 
 ## 🔆 Writing
@@ -25,6 +24,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","metadata-keys":[{"metadataKey":"description","label":"","shouldHideLabel":true,"containsMarkdown":false},{"metadataKey":"assigned to","label":"","shouldHideLabel":true,"containsMarkdown":false},{"metadataKey":"Date","label":"","shouldHideLabel":true,"containsMarkdown":false}]}
+{"kanban-plugin":"basic","metadata-keys":[{"metadataKey":"seo-title","label":"","shouldHideLabel":true,"containsMarkdown":false},{"metadataKey":"categories","label":"","shouldHideLabel":true,"containsMarkdown":false}]}
 ```
 %%

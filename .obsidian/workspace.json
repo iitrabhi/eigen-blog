@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ec4e41ea3e1c6a",
+        "id": "b8bc79ac5af46028",
         "type": "tabs",
         "children": [
           {
-            "id": "ec01a3e4053e1331",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2b9b1497092fc56c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3b3ea930cb23dec",
+            "id": "e2d8ce1d8e64ac11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "admin/templates/4_post-template.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "admin/templates/4_post-template.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "admin/templates/4_post-template.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "admin/templates/4_post-template.md"
+                "file": "README.md"
               }
             }
           },
@@ -184,16 +168,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3b3ea930cb23dec",
+  "active": "e2d8ce1d8e64ac11",
   "lastOpenFiles": [
-    "blogs/2024-07-16.md",
-    "Kanban.md",
-    "admin/meetings",
+    "admin/meetings/2024-07-16.md",
     "README.md",
+    "Kanban.md",
+    "admin/meetings/readme.md",
+    "blogs/readme.md",
+    "blogs/What is stress.md",
+    "blogs/Understanding space-time simulation.md",
     "admin/templates/4_post-template.md",
+    "blogs/Understanding space-time simulations.md",
+    "blogs/2024-07-16_07-43-53.md",
+    "blogs/2024-07-16_07-41-45.md",
+    "blogs/2024-07-16.md",
+    "admin/templates/1_meeting_notes.md",
+    "admin/meetings",
     "admin/templates/2_kanban.md",
     "admin/templates/post-template.md",
-    "admin/templates/1_meeting_notes.md",
     "admin/templates/4_kanban.md",
     "admin/templates/3_date-time.md",
     "admin/templates",

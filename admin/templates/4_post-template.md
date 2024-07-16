@@ -1,9 +1,9 @@
 ---
-title: " "
-description: " "
+seo-title: " "
+seo-description: " "
 categories:
   - coding
   - presentation
 tags: []
 ---
-<% tp.file.rename(tp.date.now()) %>
+

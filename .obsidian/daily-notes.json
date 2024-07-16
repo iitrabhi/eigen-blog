@@ -1,3 +1,4 @@
 {
-  "folder": "3_logs"
+  "folder": "admin/meetings",
+  "template": "admin/templates/1_meeting_notes"
 }
