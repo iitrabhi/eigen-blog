@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1304db6b9a303196",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ]
       }
@@ -180,9 +170,9 @@
   },
   "active": "e2d8ce1d8e64ac11",
   "lastOpenFiles": [
+    "Kanban.md",
     "README.md",
     "admin/meetings/2024-07-16.md",
-    "Kanban.md",
     "admin/meetings/readme.md",
     "blogs/readme.md",
     "blogs/What is stress.md",
