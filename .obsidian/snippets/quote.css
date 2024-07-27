@@ -3,7 +3,7 @@
   background-color: #263444;
   color: #fff;
   border-radius: 0.4em;
-  border: 3px solid #90bfe2;
+  border: 2px solid #90bfe2;
   padding-top: 16px;
   padding-bottom: 16px;
 }
@@ -162,3 +162,10 @@ border: 0px;
   -webkit-line-clamp: 5;
 }
 
+.cm-highlight{
+padding-left: 4px;
+padding-right: 4px;
+border-radius: 4px;
+color: #d75766 !important;
+background:  #d7576640 !important;
+}
